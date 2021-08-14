@@ -1,0 +1,39 @@
+* {
+    font-family: Raleway, sans-serif;
+    box-sizing: border-box;
+}
+body {
+    color: #fff;
+}
+section {
+    margin: 80px 0;
+}
+section:first-of-type {
+    margin-top: 0;
+}
+
+h2 {
+    font-size: 44px;
+    margin-top: 48px;
+    margin-bottom: 16px;
+}
+p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin: 0 0 20px;
+    padding: 0;
+}
+.container{
+    color: #212529;
+}
+.light-blue-bg {
+    background-color: #f5f5f5;
+
+}
+.light-blue-bg .container{
+    color: #5f6262;
+}
+
+.light-blue-bg .logo-z {
+    filter: invert(85%) sepia(17%) saturate(461%) hue-rotate(184deg) brightness(104%) contrast(93%);
+}
