@@ -35,12 +35,15 @@
     font-family: "SF Pro Text", sans-serif;
 }
 .contact{
-    height: 700px;
+    height: 500px;
     background: rgb(240,159,188);
     background: linear-gradient(90deg, rgba(240,159,188,1) 0%, rgba(166,163,164,0.9808298319327731) 55%, rgba(0,212,255,1) 100%);
 }
 .img-fluid{
     border-radius: 0.75rem;
+}
+.text{
+    font-size: 20px;
 }
 .contact-img{
     object-fit: contain;
